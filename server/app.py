@@ -50,7 +50,7 @@ tools = [search_tool]
 # LLM (Groq – correct model)
 # ------------------------------------------------------------------
 llm = ChatGroq(
-    model="llama-3.3-70b-versatile",  # ✅ correct Groq model
+    model="llama-3.3-70b-versatile", 
     api_key=GROQ_API_KEY,
     temperature=0.2,
 )
