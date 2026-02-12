@@ -1,7 +1,7 @@
 #  HALIMZ AI
 ### Agentic AI Search & Chat System with Real-Time Streaming
 
-Perplexity 2.0 is a production-oriented AI chat system that combines conversational AI with real-time web search to generate grounded, up-to-date responses.
+HALIMZ AI is a production-oriented AI chat system that combines conversational AI with real-time web search to generate grounded, up-to-date responses.
 
 The system is built using an agentic architecture powered by **LangGraph**, enabling structured decision-making between LLM reasoning and external tool usage (web search).
 
